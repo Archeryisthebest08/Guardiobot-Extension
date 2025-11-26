@@ -37,6 +37,8 @@ Usage
 
 This helps you make better decisions while navigating Roblox.
 
-Avatar Content Blur Filter: automatically hides inappropriate material, and anything reported as unsafe will be handled automatically so you don’t have to worry about it! (COMING SOON)
-Group Message Content Filter: automatically hides inappropriate messages & other media sent in that group, and anything reported as unsafe will be handled automatically so you don’t have to worry about it! (COMING SOON)
 
+## Coming Soon Features
+1. Avatar Content Blur Filter: automatically hides inappropriate material, and anything reported as unsafe will be handled automatically so you don’t have to worry about it! 
+2. Group Message Content Filter: automatically hides inappropriate messages & other media sent in that group, and anything reported as unsafe will be handled automatically so you don’t have to worry about it!
+3. Phishing & Malware Filter: warns you before you click on a link that may contain malware or phishing content for being flagged.
