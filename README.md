@@ -28,12 +28,12 @@ Built for a safer internet.
 
 Our **traffic light system** guides you toward a safer Roblox experience:
 
-**Usage:**
-<:circlecheck:1442703664245375096> **Safe** – Content or users that are safe to interact with.
-<:circlealert:1442703638094151792> **Suspicious** – Users who may be behaving suspiciously and will be monitored more closely.
-<:circleunsafe:1442721443690582016> **Unsafe** – Content or users deemed unsafe.
+Usage
+Safe – Content or users that are safe to interact with.
+Suspicious – Users who may be behaving suspiciously and will be monitored more closely.
+Unsafe – Content or users deemed unsafe and you should stay clear.
 
 This helps you make better decisions while navigating Roblox.
 
-**Coming Soon:** **Blur content feature** automatically hides inappropriate material, and anything reported as unsafe will be handled automatically—so you don’t have to worry about it!
+[Blur content feature] (COMING SOON) automatically hides inappropriate material, and anything reported as unsafe will be handled automatically so you don’t have to worry about it!
 
