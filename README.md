@@ -26,6 +26,8 @@ Built for a safer internet.
 
 ## Traffic Light Safety System
 
+[Browser Signal Information]
+
 Our traffic light system guides you toward a safer Roblox experience.
 
 Usage
