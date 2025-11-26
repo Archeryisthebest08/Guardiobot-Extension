@@ -37,5 +37,5 @@ Usage
 
 This helps you make better decisions while navigating Roblox.
 
-[Blur content feature] (COMING SOON) automatically hides inappropriate material, and anything reported as unsafe will be handled automatically so you don’t have to worry about it!
+Avatar Filter: automatically hides inappropriate material, and anything reported as unsafe will be handled automatically so you don’t have to worry about it! (COMING SOON)
 
