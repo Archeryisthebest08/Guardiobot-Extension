@@ -26,12 +26,12 @@ Built for a safer internet.
 
 ## Traffic Light Safety System
 
-Our **traffic light system** guides you toward a safer Roblox experience:
+Our traffic light system guides you toward a safer Roblox experience.
 
 Usage
-1. Safe – Content or users that are safe to interact with.
-2. Suspicious – Users who may be behaving suspiciously and will be monitored more closely.
-3. Unsafe – Content or users deemed unsafe and you should stay clear.
+1. 🟢 Safe – Content or users that are safe to interact with.
+2. 🟡 Suspicious – Users who may be behaving suspiciously and will be monitored more closely.
+3. 🔴 Unsafe – Content or users deemed unsafe and you should stay clear.
 
 This helps you make better decisions while navigating Roblox.
 
